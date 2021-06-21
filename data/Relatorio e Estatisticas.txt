@@ -1,0 +1,23 @@
+377,500000 1075,000000 340,000000 0,000000 37,500000
+linha acima se encontra respectivamente, o saldo arrecadado, saldo devolvido, saldo ingressos normal, saldo ingressos estudantes, saldo ingressos idosos
+
+idade ordem crescente
+24
+27
+31
+33
+45
+45
+60
+idade ordem decrescente
+60
+45
+45
+33
+31
+27
+24
+maior idade nome responsavel
+60 Maria
+menor idade nome responsavel
+24 Maria
